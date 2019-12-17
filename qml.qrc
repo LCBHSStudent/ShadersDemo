@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/qmls">
+        <file>main.qml</file>
+        <file>Components/ShaderToyItem.qml</file>
+        <file>Components/Fps.qml</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>

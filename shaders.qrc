@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Shaders/Ms2SD1/Ms2SD1.glsl</file>
+        <file>Shaders/Ms2SD1/Texture.binary</file>
+        <file>Shaders/XsXXDn/XsXXDn.glsl</file>
+        <file>Shaders/ColorDraw/ColorDraw.glsl</file>
+        <file>Shaders/MdX3zr/MdX3zr.glsl</file>
+        <file>Shaders/Texture/iChannel0.png</file>
+        <file>Shaders/Texture/Texture.glsl</file>
+        <file>Shaders/Warn/Warn.glsl</file>
+        <file>Shaders/Wave/Wave.glsl</file>
+        <file>Shaders/Xds3zN/Xds3zN.glsl</file>
+    </qresource>
+</RCC>
